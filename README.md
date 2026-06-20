@@ -1,2 +1,6 @@
-# EDASeguros
-EDA aplicado a clientes de aseguradora
+# EDA aplicado a clientes de aseguradora
+
+<img width="1920" height="1080" alt="eda2" src="https://github.com/user-attachments/assets/52c30d67-8d2a-42c0-96fa-48853323f1f4" />
+
+El presente informe contiene el Análisis Exploratorio de Datos (EDA) de un conjunto de datos que contiene información de clientes de una aseguradora, con el objetivo principal de identificar los factores demográficos y de salud que influyen de manera más significativa en el Valor del Seguro. El análisis se centra en determinar si las personas fumadoras representan el mayor potencial de ingreso para la venta de seguros, identificar la edad poblacional en la que se debe concentrar la estrategia comercial teniendo en cuenta el mayor ingreso potencial, y establecer cuál es la región con mayor potencial de venta de seguros considerando la contribución a los ingresos. Para responder a estos objetivos, el EDA examina la distribución de variables clave como la Edad, el IMC (Índice de Masa Corporal), el Número de Hijos, Sexo y Región, y procede a la visualización de las interacciones bivariadas y multivariadas.
+Este proyecto lo realicé como tarea para el curso virtual del SENA, Análisis Exploratorio de Datos en Python. Puedes visitar el informe detallado en el archivo "Informe AA4-EV01".
